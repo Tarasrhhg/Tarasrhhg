@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tarasrhhg
 - 👀 I’m interested in project Hakaton
 - 🌱 I’m currently learning a lot of things 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on monobank
 - 
 
 <!---
